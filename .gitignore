@@ -1,0 +1,8 @@
+# Dado bruto: ~141 MB, acima do limite de 100 MB do GitHub. Baixe com: python baixar_dados.py
+dados/brutos/results.csv
+dados/brutos/survey_results_public.csv
+
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
