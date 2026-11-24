@@ -1,0 +1,12 @@
+,valor
+n_total,24918
+k_grupos,5
+levene_p,8.476767801028895e-07
+anova_F,10.260232477374304
+anova_p,2.676565709139906e-08
+eta2,0.001644660679397474
+kruskal_H,40.2260497572342
+kruskal_p,3.8866437973605315e-08
+epsilon2,0.0014541022661756593
+teste_decisao,Kruskal-Wallis
+decisao,rejeita H0
